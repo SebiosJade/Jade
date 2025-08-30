@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nganu%20naa%20man%20ka%20ari?&textBg=false&reversal=true&section=header&fontAlign=50"/>
+
 # 💫 About Me:
 Hi! I’m Jade, a 4th year BSIT student at the University of Cebu - Main Campus. I enjoy exploring new technologies, building projects, and solving real-world problems through code. <br>My goal is to become a skilled IT professional who creates impactful solutions.
 
